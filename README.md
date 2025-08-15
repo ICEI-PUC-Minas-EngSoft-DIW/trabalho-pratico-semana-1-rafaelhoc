@@ -2,16 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Rafael Henrique de Oliveira Cruz
+Matricula: 904213
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![DevTools](images/devtools.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Replit](images/replit.png)
 
 
 ## Orientações sobre Linguagem MarkDown
